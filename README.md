@@ -1,11 +1,5 @@
-To install dependencies:
+# FavYoutubeVideos
+
+## Setup Instructions
 ```sh
 bun install
-```
-
-To run:
-```sh
-bun run dev
-```
-
-open http://localhost:3000
